@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ github:Jeffreyfx1/baileys</h1>
+  <h1>✨ github:Jeffreyfx1/jbaileys</h1>
   <p><em>Modernized WhatsApp library built upon Baileys — refined, powerful, and developer-friendly ✨</em></p>
 
  
