@@ -34,5 +34,5 @@
 @whiskeysockets/baileys
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:jephter/baileys"
+  "@whiskeysockets/baileys": "github:jephter/jbaileys"
 }
